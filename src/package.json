@@ -4,7 +4,7 @@
   },
   "name" : "api-storage-tiaw",
   "version" : "1.0.0",
-  "main": "server.js",
+  "main": "/src/server.js",
   "devDependencies": {},
 
   "scripts": {
