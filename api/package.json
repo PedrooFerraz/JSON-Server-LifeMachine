@@ -8,9 +8,9 @@
   "devDependencies": {},
 
   "scripts": {
-    "start": "json-server api/db.json",
     "test": "echo \"Error:no test specified\" && exit 1"
   },
+  
   "author": "Fábio Cordeiro",
   "license" : "ISC",
   "description": ""
