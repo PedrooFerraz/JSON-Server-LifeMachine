@@ -15,12 +15,5 @@
         "dest": "server.js"
       }
     ],
-    "rewrites": [
-        {
-          "source": "server.js",
-          "destination": "db.json"
-        }
-      ]
   
-    
   }
